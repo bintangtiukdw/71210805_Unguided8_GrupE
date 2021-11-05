@@ -1,0 +1,13 @@
+Bilangan fibonacci: 0,1,1,2,3,5,8,13,21,34,55,89,144,....
+
+Deklarasi: f = fibonacci
+                   n = data input
+
+Deskripsi:
+If f=0 or f=1 then 
+tampilkan f
+Else
+While f>1 and f<=i do
+(f-1)+(f-2)
+tampilkan (f-1)+(f-2)
+End
